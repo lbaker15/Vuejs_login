@@ -1,0 +1,21 @@
+.form {
+    display: flex; flex-direction: column;
+    padding: 2rem; gap: 1rem;
+    font-family: Manrope;
+}
+.input {
+    padding: 5px;
+}
+.form button {
+    padding: 10px;
+    color: white; background: black;
+    border: none;
+}
+.form span {
+    display: flex; flex-direction: column;   
+}
+.nav {
+    font-family: Manrope;
+    display: flex; justify-content: center;
+    gap: 10px;
+}
